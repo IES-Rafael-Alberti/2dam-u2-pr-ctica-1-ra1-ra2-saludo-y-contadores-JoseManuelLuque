@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.jluqgon214.saludoycontenedores"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.jluqgon214.saludoycontenedores"
